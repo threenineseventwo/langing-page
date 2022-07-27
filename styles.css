@@ -36,6 +36,17 @@
     height: 150px;
 }
 
+.left-h-con h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.left-h-con p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 .h-con .image {
     width: 350px;
     height: 150px;
