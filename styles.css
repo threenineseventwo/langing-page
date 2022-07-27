@@ -27,29 +27,32 @@
 .header .h-con {
     display: flex;
     justify-content: center;
+    align-items: center;
     gap: 50px;
     padding-top: 30px;
 }
 
 .h-con .left-h-con {
-    width: 350px;
-    height: 150px;
+    width: 400px;
+    height: 200px;
 }
 
 .left-h-con h1 {
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
+    margin: 0px;
 }
 
 .left-h-con p {
     font-size: 18px;
     color: #E5E7EB;
+    margin: 10px 0px;
 }
 
 .h-con .image {
-    width: 350px;
-    height: 150px;
+    width: 400px;
+    height: 200px;
     background-color: grey;
     color: white;
     display: flex;
