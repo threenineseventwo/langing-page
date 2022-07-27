@@ -3,13 +3,9 @@
     padding-bottom: 75px;  
 }
 
-.nav {
+.header .nav {
     display: flex;
     justify-content: space-around;
-}
-
-a {
-    text-decoration: none; color: lightblue;
 }
 
 ul {
@@ -18,17 +14,21 @@ ul {
     gap: 30px;
 }
 
+a {
+    text-decoration: none; color: lightblue;
+}
+
 .h-con {
     display: flex;
     justify-content: space-evenly;
 }
 
-.left-h-con {
+.h-con .left-h-con {
     width: 350px;
     height: 150px;
 }
 
-.image {
+.h-con .image {
     width: 350px;
     height: 150px;
     background-color: grey;
