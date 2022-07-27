@@ -34,7 +34,7 @@
 
 .h-con .left-h-con {
     width: 400px;
-    height: 200px;
+    height: auto;
 }
 
 .left-h-con h1 {
@@ -49,10 +49,19 @@
     color: #E5E7EB;
     margin: 10px 0px;
 }
+.left-h-con button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 18px;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px 35px;
+}
 
 .h-con .image {
     width: 400px;
-    height: 200px;
+    height: 234px;
     background-color: grey;
     color: white;
     display: flex;
