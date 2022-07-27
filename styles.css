@@ -5,3 +5,7 @@ a {
 ul {
     list-style: none;
 }
+
+.header {
+    background-color: #1F2937;
+}
