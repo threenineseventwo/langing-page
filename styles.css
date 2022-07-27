@@ -73,11 +73,22 @@
 
 .info {
     display: flex;
-    justify-content: center;
 }
 
 .info h2 {
     font-size: 36px;
     font-weight: 800;
     color: #1F2937;
+}
+
+.info .i-con {
+
+}
+
+.pic .box {
+    height: 20px;
+    width: 200px;
+    border-width: 2px;
+    border-style: solid;
+    border-color:#3882F6;
 }
