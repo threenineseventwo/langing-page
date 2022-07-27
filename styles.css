@@ -1,13 +1,3 @@
-a {
-    text-decoration: none; color: lightblue;
-}
-
-ul {
-    list-style: none;
-    display: flex;
-    gap: 30px;
-}
-
 .header {
     background-color: #1F2937;
     padding-bottom: 75px;  
@@ -18,8 +8,24 @@ ul {
     justify-content: space-around;
 }
 
+a {
+    text-decoration: none; color: lightblue;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+
 .h-con {
     display: flex;
+    justify-content: space-evenly;
+}
+
+.left-h-con {
+    width: 350px;
+    height: 150px;
 }
 
 .image {
