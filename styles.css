@@ -70,3 +70,14 @@
     justify-content: center;
     align-items: center;
 }
+
+.info {
+    display: flex;
+    justify-content: center;
+}
+
+.info h2 {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+}
