@@ -21,3 +21,13 @@ ul {
 .h-con {
     display: flex;
 }
+
+.image {
+    width: 350px;
+    height: 150px;
+    background-color: grey;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
