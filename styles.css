@@ -1,94 +1,98 @@
 .header {
-    background-color: #1F2937;
-    padding-bottom: 100px;  
+  background-color: #1f2937;
+  padding-bottom: 100px;
 }
 
 .header .nav {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    margin: 0px 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0px 20px;
 }
-.nav h3{
-    font-size: 24px;
-    color: #F9FAF8;
+.nav h3 {
+  font-size: 24px;
+  color: #f9faf8;
 }
 
 .nav ul {
-    list-style: none;
-    display: flex;
-    gap: 30px;
+  list-style: none;
+  display: flex;
+  gap: 30px;
 }
 
 .nav a {
-    text-decoration: none; color: #E5E7EB;
-    font-size: 18px;
+  text-decoration: none;
+  color: #e5e7eb;
+  font-size: 18px;
 }
 
 .header .h-con {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 50px;
-    padding-top: 30px;
-    margin: 0px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  padding-top: 30px;
+  margin: 0px 20px;
 }
 
 .h-con .left-h-con {
-    width: 400px;
-    height: auto;
+  width: 400px;
+  height: auto;
 }
 
 .left-h-con h1 {
-    font-size: 48px;
-    font-weight: bolder;
-    color: #F9FAF8;
-    margin: 0px;
+  font-size: 48px;
+  font-weight: bolder;
+  color: #f9faf8;
+  margin: 0px;
 }
 
 .left-h-con p {
-    font-size: 18px;
-    color: #E5E7EB;
-    margin: 10px 0px;
+  font-size: 18px;
+  color: #e5e7eb;
+  margin: 10px 0px;
 }
 .left-h-con button {
-    background-color: #3882F6;
-    color: #F9FAF8;
-    font-size: 18px;
-    font-weight: bold;
-    border: 0px;
-    border-radius: 5px;
-    padding: 10px 35px;
+  background-color: #3882f6;
+  color: #f9faf8;
+  font-size: 18px;
+  font-weight: bold;
+  border: 0px;
+  border-radius: 5px;
+  padding: 10px 35px;
 }
 
 .h-con .image {
-    width: 400px;
-    height: 234px;
-    background-color: grey;
-    color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  width: 400px;
+  height: 234px;
+  background-color: grey;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .info {
-    display: flex;
+  display: flex;
+  flex-direction: column;
 }
 
 .info h2 {
-    font-size: 36px;
-    font-weight: 800;
-    color: #1F2937;
+  font-size: 36px;
+  font-weight: 800;
+  color: #1f2937;
 }
 
 .info .i-con {
-
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 .pic .box {
-    height: 20px;
-    width: 200px;
-    border-width: 2px;
-    border-style: solid;
-    border-color:#3882F6;
+  height: 20px;
+  width: 200px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #3882f6;
 }
