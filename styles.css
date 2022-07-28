@@ -91,7 +91,7 @@
   flex-wrap: wrap;
 }
 
-.pic {
+.info .pic {
   width: 150px;
   text-align: center;
 }
