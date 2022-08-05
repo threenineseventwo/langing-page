@@ -104,3 +104,13 @@
   border-radius: 15px;
   border-color: #3882f6;
 }
+
+.quote {
+  background-color: #e5e7eb;
+}
+
+.quote .q-con {
+  font-size: 36px;
+  font-style: italic;
+  color: #1f2937;
+}
