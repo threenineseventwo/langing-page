@@ -146,4 +146,15 @@
   background-color: #3882f6;
   width: 900px;
   border-radius: 5px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.con-text h3{
+  margin-bottom: 2px;
+}
+
+.con-text p{
+  margin-top: 2px;
 }
