@@ -134,3 +134,16 @@
   bottom: 0;
   right: 0;
 }
+
+.sign-up {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 75px 0px;
+}
+
+.sign-up .sign-up-con {
+  background-color: #3882f6;
+  width: 900px;
+  border-radius: 5px;
+}
