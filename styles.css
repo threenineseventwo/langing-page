@@ -109,17 +109,13 @@
   background-color: #e5e7eb;
   padding: 50px 0px;
   display: flex;
-  flex-direction: column;
-  position: relative;
   margin-top: 100px;
 }
 
 .quote .q-con {
   width: 750px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
   display: flex;
-  justify-content: center;
   position: relative;
 }
 
@@ -151,7 +147,7 @@
   justify-content: space-around;
   align-items: center;
 }
-.sign-up-button button{
+.sign-up-button button {
   background-color: #3882f6;
   color: #f9faf8;
   font-size: 18px;
@@ -163,12 +159,12 @@
   padding: 8px 35px;
 }
 
-.con-text h3{
+.con-text h3 {
   color: #f9faf8;
   margin-bottom: 2px;
 }
 
-.con-text p{
+.con-text p {
   color: #f9faf8;
   margin-top: 2px;
 }
