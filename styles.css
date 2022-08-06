@@ -109,8 +109,6 @@
   background-color: #e5e7eb;
   padding: 50px 0px;
   display: flex;
-  justify-content: center;
-  align-items: center;
   flex-direction: column;
 }
 
@@ -119,4 +117,7 @@
   font-style: italic;
   color: #1f2937;
   width: 750px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
 }
