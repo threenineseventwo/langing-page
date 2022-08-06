@@ -119,6 +119,7 @@
   margin-right: auto;
   display: flex;
   justify-content: center;
+  position: relative;
 }
 
 .quote p {
@@ -127,7 +128,8 @@
   color: #1f2937;
 }
 
-.quote .quoter {
-  display: flex;
-  align-self: flex-end;
+.q-con .quoter {
+  position: absolute;
+  bottom: 0;
+  right: 0;
 }
