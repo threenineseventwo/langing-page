@@ -154,6 +154,13 @@
 .sign-up-button button{
   background-color: #3882f6;
   color: #f9faf8;
+  font-size: 18px;
+  font-weight: bold;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: #f9faf8;
+  padding: 8px 35px;
 }
 
 .con-text h3{
