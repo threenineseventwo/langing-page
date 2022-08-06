@@ -110,14 +110,24 @@
   padding: 50px 0px;
   display: flex;
   flex-direction: column;
+  position: relative;
 }
 
 .quote .q-con {
+  width: 750px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.quote p {
   font-size: 36px;
   font-style: italic;
   color: #1f2937;
-  width: 750px;
-  margin: auto;
+}
+
+.quote .quoter {
   display: flex;
-  justify-content: center;
+  align-self: flex-end;
 }
