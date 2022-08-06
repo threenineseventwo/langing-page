@@ -151,11 +151,17 @@
   justify-content: space-around;
   align-items: center;
 }
+.sign-up-button button{
+  background-color: #3882f6;
+  color: #f9faf8;
+}
 
 .con-text h3{
+  color: #f9faf8;
   margin-bottom: 2px;
 }
 
 .con-text p{
+  color: #f9faf8;
   margin-top: 2px;
 }
