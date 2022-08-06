@@ -107,10 +107,16 @@
 
 .quote {
   background-color: #e5e7eb;
+  padding: 50px 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 .quote .q-con {
   font-size: 36px;
   font-style: italic;
   color: #1f2937;
+  width: 750px;
 }
